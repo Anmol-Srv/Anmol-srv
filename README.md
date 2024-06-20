@@ -3,15 +3,15 @@ I'm Anmol Srivastava, a software developer with a Bachelor of Technology in Comp
 
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=anmol-srv&label=Profile%20views&color=0e75b6&style=flat" alt="anmol-srv" /> </p>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10fHUFI4U4jqySMszMNGdDhJqjJfoyJyK/view?usp=sharing](https://drive.google.com/file/d/10fHUFI4U4jqySMszMNGdDhJqjJfoyJyK/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/10fHUFI4U4jqySMszMNGdDhJqjJfoyJyK/view?usp=sharing)
 
-- 🌱 I’m currently learning **Docker, AWS, NGINX, Postgres**
+- 🌱 I’m currently learning: **Docker, AWS, NGINX, Postgres**
 
-- 👨‍💻 All of my projects are available at [https://anmol-srv-portfolio-ruby.vercel.app/](https://anmol-srv-portfolio-ruby.vercel.app/)
+- 👨‍💻 All of my projects are available at: [Portfolio Website](https://anmol-srv-portfolio-ruby.vercel.app/)
 
-- 💬 Ask me about **Javascript, React.js, Next.js, THREE.js, WebGl,**
+- 💬 Ask me about: **Javascript, React.js, Next.js, THREE.js, WebGl,**
 
-- 📫 How to reach me **anmol.sriv55@gmail.com**
+- 📫 How to reach me: **anmol.sriv55@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
